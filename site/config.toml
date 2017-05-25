@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Knights of Columbus – Kansas State Council"
+baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   description = "The last theme you'll ever need. Maybe."
   faceboook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
