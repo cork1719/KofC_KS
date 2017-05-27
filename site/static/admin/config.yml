@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: cork1719/KofC_KS # Path to your Github repository
-  branch: victor_hugo # Branch to update
+  branch: master # Branch to update
 
 publish_mode: editorial_workflow
 
